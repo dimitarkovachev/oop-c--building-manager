@@ -1,0 +1,6 @@
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\bin\Debug\BuildingManager.Services.exe.config
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\bin\Debug\BuildingManager.Services.exe
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\bin\Debug\BuildingManager.Services.pdb
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\obj\Debug\BuildingManager.Services.csproj.CoreCompileInputs.cache
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\obj\Debug\BuildingManager.Services.exe
+C:\Projects\oop-c--building-manager\BuildingManager\BuildingManager.Services\obj\Debug\BuildingManager.Services.pdb
